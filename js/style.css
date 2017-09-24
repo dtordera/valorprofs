@@ -1,0 +1,26 @@
+  body {
+            padding-top:5%;
+            padding-left:5%;
+            padding-right:5%;
+        }
+        
+	#headrow {
+            background:blue;
+            color:white;
+	 }
+	 
+	table {
+	    border-width:1px;
+	    border-style:solid;
+	    width:100%;
+	}
+	 
+  .hidden {
+      visibility:hidden;
+  }
+  
+  tr:hover
+  {
+      background:orange;
+      cursor:pointer;
+  }

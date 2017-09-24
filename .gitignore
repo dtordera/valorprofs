@@ -1,0 +1,6 @@
+./recovery
+./recovery/*
+./links
+./*.pdf
+./*/*.properties
+
